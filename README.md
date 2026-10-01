@@ -5,6 +5,9 @@ pnpm install
 pnpm dev
 ```
 
+Name: Supatchok Pimsan
+680610724
+
 ---
 
 ## มีอะไรให้แล้ว
