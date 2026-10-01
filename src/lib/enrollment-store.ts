@@ -48,7 +48,7 @@ export const useEnrollmentStore = create<EnrollmentStore>()(
               ? {
                   ...course,
                   instructors: course.instructors.filter(
-                    (name) => name !== instructor,
+                    (name) => name.name !== instructor,
                   ),
                 }
               : course,
